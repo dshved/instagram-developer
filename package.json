@@ -1,0 +1,19 @@
+{
+  "name": "instagram-developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshved/instagram-developer.git"
+  },
+  "author": "Dmitry Shved",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dshved/instagram-developer/issues"
+  },
+  "homepage": "https://github.com/dshved/instagram-developer#readme"
+}
