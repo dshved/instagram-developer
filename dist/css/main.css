@@ -1,0 +1,35 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box; }
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+.header {
+  position: fixed;
+  height: 77px;
+  top: 0;
+  z-index: 100;
+  background-color: #FFF;
+  width: 100%;
+  margin: 0 auto;
+  border-bottom: 1px solid #dbdbdb; }
+  .header__logo {
+    position: relative;
+    top: 20px;
+    width: 176px;
+    height: 35px;
+    background-image: url(https://instagramstatic-a.akamaihd.net/h1/images/branding/logoWhiteoutLockup.png/54b3cb7339a2.png); }
+    .header__logo a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      font-size: 0; }
+
+.container {
+  max-width: 1026px;
+  margin: 0 auto; }

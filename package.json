@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/dshved/instagram-developer/issues"
   },
-  "homepage": "https://github.com/dshved/instagram-developer#readme"
+  "homepage": "https://github.com/dshved/instagram-developer#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cli": "gulpjs/gulp-cli#4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^3.1.0",
+    "gulp-sass": "^2.3.2"
+  }
 }
